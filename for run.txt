@@ -1,0 +1,7 @@
+TO RUN THE PROJECT:-
+python -m venv myenv
+.\myenv\Scripts\Activate.ps1
+pip install -r requirement.txt
+streamlit run main.py
+OR:-
+Local URL: http://localhost:8501
